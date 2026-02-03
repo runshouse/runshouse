@@ -1,4 +1,4 @@
-## Runbo
+## 👋 I'm Runbo
 
 Founder - Magic Hour (AI image & video creation)
 
