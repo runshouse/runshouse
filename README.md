@@ -1,6 +1,6 @@
 ## Runbo
 
-Founder - :contentReference[oaicite:0]{index=0}
+Founder - Magic Hour (AI image & video creation)
 
 - Product: https://magichour.ai
 - Contact: runbo@magichour.ai - X: @runboli
