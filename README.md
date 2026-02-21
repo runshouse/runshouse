@@ -3,7 +3,8 @@
 Founder - Magic Hour (AI image & video creation)
 
 - Product: https://magichour.ai
-- Contact: runbo@magichour.ai - X: @runboli
+- Contact: runbo@magichour.ai 
+- X: @runboli
 
 ### What you’ll find here
 - Open-source tools and utilities I’ve built while working on Magic Hour
