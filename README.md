@@ -10,6 +10,3 @@ Founder - Magic Hour (AI image & video creation)
 - Open-source tools and utilities I’ve built while working on Magic Hour
 - Small demos built on our API (end-to-end examples, not polished products)
 - Explorations and prototypes (experiments in progress)
-
-### Where to start
-Pinned repos below are the best entry points. If you’re evaluating the product, start with the API cookbook (Python).
